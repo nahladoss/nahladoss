@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Nahla Doss 👋
 
-<!--
-**nahladoss/nahladoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Aspiring Software Engineer  
+🌱 Passionate about web development and creating modern applications  
+🚀 Currently improving my skills in Front-End and Full-Stack Development  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+
+### Back-End Development
+- PHP
+- SQL
+- Database Management
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Responsive Web Design
+
+## 🚀 Projects
+
+Here you can find my projects in:
+- Web Development
+- React Applications
+- Database-based Applications
+- Front-End Interfaces
+
+## 📚 Currently Learning
+
+- Advanced React concepts
+- Full-Stack Web Development
+- Software Engineering practices
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/nahla-doss-571201229
+- GitHub: https://github.com/nahladoss
+- 
+⭐ Always learning, building, and improving as a future software engineer.
