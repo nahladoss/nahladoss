@@ -4,6 +4,7 @@
 💻 Aspiring Software Engineer  
 🌱 Passionate about web development and creating modern applications  
 🚀 Currently improving my skills in Front-End and Full-Stack Development  
+By applying engineering principles, refining solutions, and building meaningful software projects. 
 
 ## 🛠️ Tech Stack
 
